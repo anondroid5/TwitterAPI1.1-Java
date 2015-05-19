@@ -1,6 +1,6 @@
 # TwitterAPI1.1
 Twitter4j
-# Emvironment
+# Environment
 Java8 (jdk1.8.0_05)
 
 maven

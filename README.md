@@ -17,6 +17,7 @@ UserFollowers.java - 特定ユーザのフォロワーを調査する
 UserInfo - 特定ユーザの情報を調査する
 
 ### public_streaming
+GeoStream.java - PublicStreamの緯度、経度によるフィルター
 
 
 

@@ -89,7 +89,7 @@ public class Followersids {
             System.out.println("["+(i+1)+"]" + followersList.get(i));
             //ユーザ情報の表示
             User user = twitter.showUser(followersList.get(i));
-		System.out.println("User ID : " + user.getId());//UserID
+			System.out.println("User ID : " + user.getId());//UserID
     	    System.out.println("ScreenName : " + user.getScreenName());//ScreenName
     	    System.out.println("User's Name : " + user.getName());//UserName
     	    System.out.println("Number of Followers : " + user.getFollowersCount());//Number of Followers

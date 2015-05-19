@@ -27,6 +27,20 @@ OAuthStream.java - OAuthを行ったユーザのPublicStream
 
 PublicStream.java - PublicStream
 
+SampleStream.java - PublicStream上のユーザ情報の表示
+
+UserIDStream.java - 特定ユーザIDで対象者のPublicStreamを取得
+
+### site_streaming
+
+SiteStream.java - SiteStream
+
+### twitterrest
+
+Followersids.java - 特定ユーザのフォロワー一覧を得る
+
+
+
 
 
 

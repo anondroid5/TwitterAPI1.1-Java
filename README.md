@@ -10,7 +10,7 @@ http://mvnrepository.com/
 # Details
 
 ### demo
-Investigation.java - 研究で使用したプログラム　Public Streamからハッシュタグを指定してデータを取得
+Investigation.java - 研究で使用したプログラム(Public Streamからハッシュタグを指定してデータ取得)
 
 
 

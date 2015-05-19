@@ -14,6 +14,8 @@ Investigation.java - 研究で使用したプログラム(Public Streamからハ
 
 UserFollowers.java - 特定ユーザのフォロワーを調査する
 
+UserInfo - 特定ユーザの情報を調査する
+
 
 
 # Author

@@ -23,6 +23,12 @@ HashtagStream.java - PublicStreamのハッシュタグによるフィルター
 
 KeywordStream.java - PublicStreamのキーワードによるフィルター
 
+OAuthStream.java - OAuthを行ったユーザのPublicStream
+
+PublicStream.java - PublicStream
+
+
+
 
 # Author
 Fumihiko Akagi

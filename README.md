@@ -16,6 +16,8 @@ UserFollowers.java - 特定ユーザのフォロワーを調査する
 
 UserInfo - 特定ユーザの情報を調査する
 
+### public_streaming
+
 
 
 # Author

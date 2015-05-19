@@ -7,6 +7,8 @@ Apache Maven 3.0.2
 
 http://mvnrepository.com/
 
+# Details
+
 # Author
 Fumihiko Akagi
 

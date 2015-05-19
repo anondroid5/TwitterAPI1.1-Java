@@ -8,7 +8,7 @@ Apache Maven 3.0.2
 http://mvnrepository.com/
 
 # Author
-Akagi Fumihiko
+Fumihiko Akagi
 
 # Copyright
 The MIT License

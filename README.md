@@ -21,6 +21,8 @@ GeoStream.java - PublicStreamの緯度、経度によるフィルター
 
 HashtagStream.java - PublicStreamのハッシュタグによるフィルター
 
+KeywordStream.java - PublicStreamのキーワードによるフィルター
+
 
 # Author
 Fumihiko Akagi

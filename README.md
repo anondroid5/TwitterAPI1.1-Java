@@ -39,6 +39,22 @@ SiteStream.java - SiteStream
 
 Followersids.java - 特定ユーザのフォロワー一覧を得る
 
+GeoSearch.java - 緯度、経度を指定して区間内のtweetを取得
+
+GetHomeTimeline.java - ホームタイムラインの取得
+
+SearchTweet.java - 検索ワードを指定してtweetを取得
+
+Timeline.java - 特定ユーザのホームタイムラインを取得
+
+Tweet.java - ホームタイムラインに投稿
+
+UserSearch.java - 特定ユーザのtweet検索
+
+### user_streaming
+
+UserStream.java - UserStream
+
 
 
 

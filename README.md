@@ -61,4 +61,4 @@ UserStream.java - UserStream
 Fumihiko Akagi
 
 # Copyright
-The MIT License
+Apache License 2.0

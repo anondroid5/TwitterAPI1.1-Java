@@ -16,6 +16,21 @@ UserFollowers.java - 特定ユーザのフォロワーを調査する
 
 UserInfo.java - 特定ユーザの情報を調査する
 
+### twitterrest
+Followersids.java - 特定ユーザのフォロワー一覧を得る
+
+GeoSearch.java - 緯度、経度を指定して区間内のtweetを取得
+
+GetHomeTimeline.java - ホームタイムラインの取得
+
+SearchTweet.java - 検索ワードを指定してtweetを取得
+
+Timeline.java - 特定ユーザのホームタイムラインを取得
+
+Tweet.java - ホームタイムラインに投稿
+
+UserSearch.java - 特定ユーザのtweet検索
+
 ### public_streaming
 GeoStream.java - PublicStreamの緯度、経度によるフィルター
 
@@ -32,27 +47,9 @@ SampleStream.java - PublicStream上のユーザ情報の表示
 UserIDStream.java - 特定ユーザIDで対象者のPublicStreamを取得
 
 ### site_streaming
-
 SiteStream.java - SiteStream
 
-### twitterrest
-
-Followersids.java - 特定ユーザのフォロワー一覧を得る
-
-GeoSearch.java - 緯度、経度を指定して区間内のtweetを取得
-
-GetHomeTimeline.java - ホームタイムラインの取得
-
-SearchTweet.java - 検索ワードを指定してtweetを取得
-
-Timeline.java - 特定ユーザのホームタイムラインを取得
-
-Tweet.java - ホームタイムラインに投稿
-
-UserSearch.java - 特定ユーザのtweet検索
-
 ### user_streaming
-
 UserStream.java - UserStream
 
 

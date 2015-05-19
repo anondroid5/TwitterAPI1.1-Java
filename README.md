@@ -12,6 +12,8 @@ http://mvnrepository.com/
 ### demo
 Investigation.java - 研究で使用したプログラム(Public Streamからハッシュタグを指定してデータ取得)
 
+UserFollowers.java - 特定ユーザのフォロワーを調査する
+
 
 
 # Author

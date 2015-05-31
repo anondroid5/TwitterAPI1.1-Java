@@ -1,5 +1,9 @@
 # TwitterAPI1.1
 Twitter4j
+
+[![Language](http://img.shields.io/badge/language-java-orange.svg?style=flat)](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+[![License](http://img.shields.io/badge/license-apache2.0-lightgrey.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0)
+
 # Requirements
 * Java >= 1.8
 * Tomcat >= 7.0

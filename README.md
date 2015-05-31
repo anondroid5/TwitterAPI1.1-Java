@@ -3,9 +3,6 @@
 [![Library](https://img.shields.io/badge/library-twitter4j-blue.svg?style=flat)](http://twitter4j.org/ja/index.html)
 [![License](http://img.shields.io/badge/license-apache2.0-lightgrey.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0)
 
-Twitter4j
-
-
 # Requirements
 * Java >= 1.8
 * Tomcat >= 7.0

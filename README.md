@@ -1,7 +1,7 @@
 # TwitterAPI1.1
-[[!Language](http://img.shields.io/badge/language-java-orange.svg?style=flat)](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
-[[!Library](https://img.shields.io/badge/library-twitter4j-blue.svg?style=flat)](http://twitter4j.org/ja/index.html)
-[[!License](http://img.shields.io/badge/license-apache2.0-lightgrey.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0)
+[![Language](http://img.shields.io/badge/language-java-orange.svg?style=flat)](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+[![Library](https://img.shields.io/badge/library-twitter4j-blue.svg?style=flat)](http://twitter4j.org/ja/index.html)
+[![License](http://img.shields.io/badge/license-apache2.0-lightgrey.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0)
 
 # Requirements
 * Java >= 1.8

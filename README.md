@@ -60,10 +60,10 @@ UserStream.java - UserStream
 
 
 # Author
-Fumihiko Akagi
+Fumihiko Akaki
 
 # Copyright
-    Copyright (C) 2015 Fumihiko Akagi
+    Copyright (C) 2015 Fumihiko Akaki
     Copyright (C) 2007 Yusuke Yamamoto
     
     Licensed under the Apache License, Version 2.0 (the "License");
